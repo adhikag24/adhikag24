@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi, I'm Adhika 👋
+Backend & Fullstack Engineer (Go | React | Node.js | Python)
 
-<!--
-**adhikag24/adhikag24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+5+ years of experience building scalable and reliable systems
 
-Here are some ideas to get you started:
+Specialized in clean architecture, microservices, and cloud-native development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Comfortable delivering end-to-end fullstack solutions using Golang + React
+
+Capable of handling small DevOps tasks (CI/CD, Docker, basic cloud setup)
+
+💼 What I Do
+
+- Fullstack application development (Go backend + React frontend)
+- Backend systems, microservices, and API design
+- Web scrapers, and data processing scripts
+- Lightweight DevOps (Docker, pipelines, deployment setups)
