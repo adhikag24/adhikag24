@@ -13,7 +13,7 @@ Capable of handling small DevOps tasks (CI/CD, Docker, basic cloud setup).
 - Python
 - Docker
 - CI/CD tools
-- Cloud basics (GCP/AWS)
+- Cloud basics (GCP)
 - Databases
 
 💼 What I Do
